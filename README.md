@@ -106,3 +106,17 @@ Proyek ini merupakan hasil kolaborasi dari tim yang solid dengan pembagian tugas
 | 2. | **LUGHRI WIJAYA PAMUNGKAS (24SA31A038)** | **Project Owner & Content**. Sebagai pemilik Rijaya Advertising, bertugas menyiapkan materi produk dan membuat kerangka awal HTML. |
 | 3. | **MA'RUF AMRULLOH (24SA31A001)** | **Logistik & Support**. Menyiapkan fasilitas dan konsumsi tim, serta membantu dalam proses penyuntingan file HTML. |
 | 4. | **AZIZ ILHAM RIYADI (24SA31A037)** | **Frontend**. Fokus pada penyuntingan tampilan visual, kerangka HTML, dan styling menggunakan CSS untuk menciptakan antarmuka yang menarik. |
+
+---
+
+## 🎥 Dokumentasi Proyek
+
+Untuk melihat demonstrasi lengkap dari fitur-fitur aplikasi, alur kerja, dan penjelasan teknis, silakan kunjungi video dokumentasi kami yang tersedia di Google Drive.
+
+<p align="center">
+  <a href="LINK_GOOGLE_DRIVE_ANDA" target="_blank">
+    <img src="https://img.shields.io/badge/Tonton_Dokumentasi-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Link Dokumentasi Video"/>
+  </a>
+</p>
+
+---
