@@ -2,7 +2,7 @@
 
 Selamat datang di repositori resmi proyek website Rijaya Advertising. Proyek ini merupakan aplikasi web full-stack yang dirancang untuk menjadi platform e-commerce dan portofolio digital bagi Rijaya Advertising, sebuah usaha percetakan digital. Aplikasi ini dibangun dari awal, bertransformasi dari sebuah konsep statis menjadi platform dinamis dengan backend yang kuat dan antarmuka yang modern.
 
-![Tampilan Website Rijaya Advertising](https://github.com/davyirsyad/RijayaAdvertising/blob/main/asset/Tampilan%20Website%20Rijaya%20Advertising.png?raw=true)
+![Tampilan Website Rijaya Advertising](https://github.com/davyirsyad/RijayaAdvertising/blob/main/asset%20readme/Tampilan%20Website%20Rijaya%20Advertising.png?raw=true)
 
 ## 📜 Deskripsi Project
 
@@ -109,7 +109,7 @@ Proyek ini merupakan hasil kolaborasi dari tim yang solid dengan pembagian tugas
 
 ---
 
-## 🎥 Dokumentasi Proyek
+## 🎥 Dokumentasi Project
 
 Untuk melihat demonstrasi lengkap dari fitur-fitur aplikasi, alur kerja, dan penjelasan teknis, silakan kunjungi video dokumentasi kami yang tersedia di Google Drive.
 
