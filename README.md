@@ -1,6 +1,6 @@
 ## 🌐 Rijaya Advertising
 
-Selamat datang di repositori resmi proyek website Rijaya Advertising. Proyek ini merupakan aplikasi web full-stack yang dirancang untuk menjadi platform e-commerce dan portofolio digital bagi Rijaya Advertising, sebuah usaha percetakan digital. Aplikasi ini dibangun dari awal, bertransformasi dari sebuah konsep statis menjadi platform dinamis dengan backend yang kuat dan antarmuka yang modern.
+Selamat datang di repositori resmi project website Rijaya Advertising. Project ini merupakan aplikasi web full-stack yang dirancang untuk menjadi platform e-commerce dan portofolio digital bagi Rijaya Advertising, sebuah usaha percetakan digital. Aplikasi ini dibangun dari awal, bertransformasi dari sebuah konsep statis menjadi platform dinamis dengan backend yang kuat dan antarmuka yang modern.
 
 ![Tampilan Website Rijaya Advertising](https://github.com/davyirsyad/RijayaAdvertising/blob/main/asset%20readme/Tampilan%20Website%20Rijaya%20Advertising.png?raw=true)
 
@@ -15,15 +15,15 @@ Berikut adalah beberapa fungsionalitas utama yang telah diimplementasikan:
 
 **Front-End (Halaman Pengguna)**:
 
-2. Galeri produk yang dinamis dan dimuat langsung dari database.
+1. Galeri produk yang dinamis dan dimuat langsung dari database.
 
-3. Modal detail produk untuk menampilkan informasi lengkap tanpa pindah halaman.
+2. Modal detail produk untuk menampilkan informasi lengkap tanpa pindah halaman.
 
-4. Sistem keranjang belanja (Shopping Cart) yang fungsional.
+3. Sistem keranjang belanja (Shopping Cart) yang fungsional.
 
-5. Formulir checkout untuk proses pemesanan.
+4. Formulir checkout untuk proses pemesanan.
 
-6. Desain responsif dan modern dengan animasi halus.
+5. Desain responsif dan modern dengan animasi halus.
 
 **Back-End (Sisi Server)**:
 
@@ -59,6 +59,18 @@ Proyek ini dibangun menggunakan teknologi modern, handal, dan skalabel:
   <img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white" alt="Google Fonts"/>
   <img src="https://img.shields.io/badge/AOS-Animate%20On%20Scroll-9cf?style=for-the-badge" alt="AOS Library"/>
 </p>
+
+1. HTML5: Menyediakan kerangka struktural untuk seluruh konten dan elemen pada halaman web.
+
+2. CSS3: Mengatur tampilan visual aplikasi, termasuk layout, warna, dan tipografi agar konsisten dan menarik.
+
+3. Bootstrap 5: Framework yang digunakan untuk membangun desain responsif dan mobile-first secara cepat menggunakan komponen siap pakai.
+
+4. JavaScript (ES6+): Menjadi mesin interaktivitas di sisi klien, menangani aksi pengguna dan komunikasi data dengan server API.
+
+5. Google Fonts: Menyempurnakan desain dengan tipografi profesional untuk meningkatkan keterbacaan.
+
+6. AOS (Animate On Scroll): Memberikan efek animasi halus saat pengguna menggulir halaman untuk pengalaman visual yang lebih dinamis.
 
 #### **Backend, Database & Tools**
 <p align="left">
@@ -102,10 +114,10 @@ Proyek ini merupakan hasil kolaborasi dari tim yang solid dengan pembagian tugas
 
 | No | Nama | Peran & Tanggung Jawab |
 |:---|:---|:---|
-| 1. | **DAVY IRSYAD TULLOH (24SA31A055)** | **Full-Stack & Dokumentasi**. Bertanggung jawab membangun Frontend, Backend, Database, dan API, serta membuat laporan akhir project. |
+| 1. | **DAVY IRSYAD TULLOH (24SA31A055)** | **Full-Stack & Dokumentasi**. Bertanggung jawab membangun Frontend, Backend, Database, dan API, dan styling menggunakan CSS untuk menciptakan antarmuka yang menarik. serta membuat laporan akhir project. |
 | 2. | **LUGHRI WIJAYA PAMUNGKAS (24SA31A038)** | **Project Owner & Content**. Sebagai pemilik Rijaya Advertising, bertugas menyiapkan materi produk dan membuat kerangka awal HTML. |
 | 3. | **MA'RUF AMRULLOH (24SA31A001)** | **Logistik & Support**. Menyiapkan fasilitas dan konsumsi tim, serta membantu dalam proses penyuntingan file HTML. |
-| 4. | **AZIZ ILHAM RIYADI (24SA31A037)** | **Frontend**. Fokus pada penyuntingan tampilan visual, kerangka HTML, dan styling menggunakan CSS untuk menciptakan antarmuka yang menarik. |
+| 4. | **AZIZ ILHAM RIYADI (24SA31A037)** | **Frontend**. Fokus pada penyuntingan tampilan visual kerangka css, dan kerangka HTML. |
 
 ---
 
