@@ -114,7 +114,7 @@ Proyek ini merupakan hasil kolaborasi dari tim yang solid dengan pembagian tugas
 Untuk melihat demonstrasi lengkap dari fitur-fitur aplikasi, alur kerja, dan penjelasan teknis, silakan kunjungi video dokumentasi kami yang tersedia di Google Drive.
 
 <p align="center">
-  <a href="LINK_GOOGLE_DRIVE_ANDA" target="_blank">
+  <a href="https://drive.google.com/file/d/1Y7EvdgmxyHVeXuZJtbBXYuiTGAmJpIpf/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Tonton_Dokumentasi-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Link Dokumentasi Video"/>
   </a>
 </p>
